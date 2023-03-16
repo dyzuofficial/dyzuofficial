@@ -1,7 +1,9 @@
 🤔 | Hello! My name is Dyzu (not really)
 
-🌐 | You can find more about me at https://bio.site/dyzu
+🌐 | Author of the Bread Discord Bot, find out more about it [here](https://bread.dyzu.repl.co).
 
-🌐 | Or dyzuofficial.github.io
+🌐 | You can also find more about me [here](https://bio.site/dyzu).
+
+🌐 | View my project's uptime [here](https://stats.uptimerobot.com/43N5Xsz15w).
 
 🤨 | Thats all.
