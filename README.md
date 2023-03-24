@@ -1,4 +1,4 @@
-🤔 | Hello! My name is Dyzu (not really)
+🤔 | Hello! My name is dyzu
 
 🌐 | Author of the Bread Discord Bot, find out more about it [here](https://bread.dyzu.repl.co).
 
