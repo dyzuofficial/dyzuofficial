@@ -1,9 +1,9 @@
 
-## &nbsp;Hello.
+# &nbsp;Hello.
 
 I like to code, mostly in Lua & .bat, but sometimes I write HTML, You can find more about me below. 
 
-# &nbsp;Stats
+## &nbsp;Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dyzuofficial&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
 
