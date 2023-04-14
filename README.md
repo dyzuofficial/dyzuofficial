@@ -16,7 +16,7 @@ I like to code, mostly in Lua & .bat, but sometimes I write HTML, You can find m
 &nbsp;
 
 <p align="center"><samp>
-&nbsp;Check out my repositorys below
+### &nbsp;Check out some of my other repositorys below!
   </samp>
 </p>
 &nbsp;
