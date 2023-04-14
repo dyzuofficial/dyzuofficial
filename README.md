@@ -1,5 +1,5 @@
 
-# &nbsp;Hello, Im dyzu.
+# &nbsp;Hello.
 
 I like to code, mostly in Lua & .bat, but sometimes I write HTML, You can find more about me below. 
 
