@@ -13,11 +13,10 @@ I like to code, mostly in Lua & .bat, but sometimes I write HTML, You can find m
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dyzuofficial&repo=dyzuofficial&bg_color=0d1116&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/dyzuofficial/dyzuofficial) 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
 &nbsp;
 
 <p align="center"><samp>
-check out my repositorys below
+&nbsp;Check out my repositorys below
   </samp>
 </p>
+&nbsp;
