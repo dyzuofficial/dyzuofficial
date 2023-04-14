@@ -9,7 +9,7 @@ I like to code, mostly in Lua & .bat, but sometimes I write HTML, You can find m
 
 &nbsp;
 
-# &nbsp;Featured Repositorys
+## &nbsp;Featured Repositorys
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dyzuofficial&repo=dyzuofficial&bg_color=0d1116&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/dyzuofficial/dyzuofficial) 
 
