@@ -1,7 +1,7 @@
 
 # &nbsp;👋 Hello.
 
-I like to code, mostly in Lua & .bat, but sometimes I write HTML, You can find more about me below. 
+I do some cool stuff, one of those things is coding, right now, Im currently working on my version of the [contrast](https://github.com/niklasbuschmann/contrast) theme, amoledjeykll, It is below in my featured repositorys, It is a work in progress, but I hope you like it.
 
 ## &nbsp;Stats
 
