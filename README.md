@@ -7,7 +7,6 @@ i do cool things
 portfolio
 </p>
 <p align="center">
-  
 </p>
 <p align="center">
 https://dyzuofficial.github.io
