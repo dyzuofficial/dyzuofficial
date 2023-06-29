@@ -1,6 +1,7 @@
 # dyzu
 
-i do cool things 
+i do cool things
+
 <sub><sup>(sometimes)</sup></sub>
 _________________
 ## about
