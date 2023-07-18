@@ -14,23 +14,28 @@ In addition to my development work, I am an avid video game enthusiast. Creating
 
 Within this website and portfolio, you'll find a collection of my projects, including both personal and collaborative endeavors. Each piece reflects my commitment to craftsmanship, attention to detail, and the pursuit of excellence.
 
-Thank you for visiting my website and exploring my portfolio. I hope you enjoy the glimpse into my creative journey as a developer and content creator. Feel free to reach out to me if you have any questions or simply want to connect. Let's embark on this exciting adventure together!
+Thank you for visiting my GitHub Profile. I hope you enjoy the glimpse into my creative journey as a developer and content creator. Feel free to reach out to me if you have any questions or simply want to connect. Let's embark on this exciting adventure together!
 
 <sub><sup>(ty chatgpt)</sup></sub>
 
 _________________
+## websites & stuff
+
 <p align="center">
-portfolio
+website/portfolio
 </p>
 <p align="center">
 </p>
 <p align="center">
-https://dyzuofficial.github.io
+https://dyzu.solidskill.us
 </p>
 
+### github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dyzuofficial&show_icons=true&theme=normal" alt="dyzu" />
 
 _________________
- 
+## featured
  
  
 <p align="center">
