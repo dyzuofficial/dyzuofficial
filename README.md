@@ -19,7 +19,7 @@ Thank you for visiting my GitHub Profile. I hope you enjoy the glimpse into my c
 <sub><sup>(ty chatgpt)</sup></sub>
 
 _________________
-## websites & stuff
+## websites
 
 <p align="center">
 website/portfolio
@@ -30,9 +30,10 @@ website/portfolio
 https://dyzu.solidskill.us
 </p>
 
-### github stats
+_________________
+## github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dyzuofficial&show_icons=true&theme=normal" alt="dyzu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dyzuofficial&show_icons=true&theme=dark" alt="dyzu" />
 
 _________________
 ## featured
