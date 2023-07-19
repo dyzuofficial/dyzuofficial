@@ -12,9 +12,9 @@ I'm dyzu, Welcome to my GitHub profile, where I showcase my various projects, I 
 <br/><br/>
 <br/><br/>
 <br/><br/>
-&nbsp;
-![Visitor Count](https://profile-counter.glitch.me/dyzuofficial/count.svg) 
-&nbsp;
+
+![Visitor Count](https://profile-counter.glitch.me/dyzuofficial/count.svg)
+
 
 _________________
 
