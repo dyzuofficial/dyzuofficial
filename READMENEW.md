@@ -4,6 +4,6 @@
 
 ### Hello there! 
 
-I'm dyzu, and I love doing cool stuff! Welcome to my GitHub profile, where I showcase my coding journey and various projects. As a passionate developer, I explore a wide range of software and enjoy creating random things in my free time.
+I'm dyzu, Welcome to my GitHub profile, where I showcase my coding journey and various projects. As a passionate developer, I explore a wide range of software and enjoy creating random things in my free time.
 
 <sub>Feel free to explore my repositories, and don't forget to give them a ⭐️ if you find anything interesting! Let's make the world a bit more exciting with code! 🚀</sub>
