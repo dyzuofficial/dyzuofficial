@@ -26,7 +26,7 @@ _________________
 _________________
 <p align="center">Socials</p>
 
-<p align="center"><a href="https://dyzu.solidskill.us">Website</a></p>
+<p align="center"><a href="https://dyzuofficial.github.io">Website</a></p>
 
 <p align="center"><a href="https://youtube.com/@dyzu">YouTube</a></p>
 
